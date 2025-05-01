@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\supplierloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\supplierloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\supplierloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\supplierloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\adminloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\adminloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|c:\\users\\hp\\source\\repos\\tech_fix_website\\windowsformsapp1\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D50A7C5-4382-459D-9524-2A177CC90D92}|WindowsFormsApp1\\TECH_FIX_APP.csproj|solutionrelative:windowsformsapp1\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App1.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\App1.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App1.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\App1.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App1.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-30T02:53:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-30T02:38:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplierLoginpage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\SupplierLoginpage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SupplierLoginpage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\SupplierLoginpage.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\SupplierLoginpage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:29:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierLoginpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\SupplierLoginpage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SupplierLoginpage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\SupplierLoginpage.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\SupplierLoginpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:01:34.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminLoginpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\AdminLoginpage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AdminLoginpage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\AdminLoginpage.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\AdminLoginpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:00:40.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Loginpage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Loginpage.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Loginpage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:56:43.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loginpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Loginpage.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Loginpage.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Loginpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:56:41.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Home.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:52:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Home.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Home.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:52:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Home.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Home.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TECH_FIX_WEBSITE\\WindowsFormsApp1\\Home.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:52:40.72Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

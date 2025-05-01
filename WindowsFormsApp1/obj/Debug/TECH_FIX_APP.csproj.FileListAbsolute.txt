@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\TECH_FIX_APP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\TECH_FIX_APP.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\TECH_FIX_APP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loginpage.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminDashBoard.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLoginpage.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SupplierDashboard.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SupplierLoginpage.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddItem.resources
+C:\Users\HP\source\repos\TECH_FIX_WEBSITE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
